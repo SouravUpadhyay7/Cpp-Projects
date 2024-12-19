@@ -58,7 +58,35 @@ The **Casino Number Guessing Game** is a simple yet engaging game where players 
 - **C++ Programming Language**  
 - **Object-Oriented Programming (OOP)**  
 - **Input/Output Streams**  
-- **Random Number Generation**  
+- **Random Number Generation**
+
+
+
+### 3.📌
+# 🧮 Scientific Calculator in C++
+
+Welcome to the **Scientific Calculator**, a versatile and easy-to-use calculator that supports both basic and scientific operations! 🎉
+
+## 📝 Description
+
+This project allows you to:
+- Perform **basic arithmetic operations** like addition, subtraction, multiplication, division, and modulo.
+- Evaluate **scientific functions** like sine, cosine, and logarithms.
+- **Handle exceptions** for invalid inputs (e.g., division by zero, negative logarithms).
+- **User-friendly interface** with clear options and interactive inputs.
+
+## 💻 Technologies Used
+
+- **C++ Programming Language**
+- **Math Library** for trigonometric and logarithmic functions
+- **Object-Oriented Programming** for modular design
+- **Input Validation** for error handling
+
+
+
+
+
+
 
 ---
 
