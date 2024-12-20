@@ -81,6 +81,30 @@ This project allows you to:
 - **Math Library** for trigonometric and logarithmic functions
 - **Object-Oriented Programming** for modular design
 - **Input Validation** for error handling
+  
+
+# 4 . 🔐 Login and Registration System in C++
+
+A **simple and beginner-friendly project** that allows users to register and log in using their credentials. User information is securely stored in individual text files to simulate a basic database system.  
+
+---
+
+## 📝 Description
+
+This project includes the following features:
+1. **Registration**: Users can create a unique username and password. The credentials are stored securely in a file named after the username.
+2. **Login**: Users can log in using their registered credentials.
+3. **File-Based Database**: All user credentials are stored in separate text files.
+
+---
+
+## 💻 Technologies Used
+
+- **C++ Programming Language**
+- **File Manipulation** using the `<fstream>` library
+- **String Operations** using the `<string>` library
+- **User Input and Output** for an interactive experience
+
 
 
 
